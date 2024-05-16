@@ -10,11 +10,11 @@
 .vscode
 
 esp01-update.sh
-platformio_override.ini
+# platformio_override.ini
 replace_fs.py
 wled-update.sh
 
-/build_output/
+# /build_output/
 /node_modules/
 
 /wled00/extLibs
